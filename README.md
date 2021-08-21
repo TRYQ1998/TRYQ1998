@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Phoenix Tian ✨
+
+![coiop](https://user-images.githubusercontent.com/89287967/130309758-a4d0cc4e-e1de-474b-a0b7-7ac8ac875598.png)
 
 <!--
 **TRYQ1998/TRYQ1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
